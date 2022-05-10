@@ -7,6 +7,8 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class UserRepository {
     public UserRepository() {
@@ -70,6 +72,41 @@ public class UserRepository {
             }
         }
         return user;
+
+    }
+
+    public List<User> findAll(){
+        List<User> userList = new ArrayList<>();
+        User user = null;
+        Connection connection = null;
+        PreparedStatement statement = null;
+        try {
+            connection = DbConnector.getConnection();
+
+            String sql = "SELECT * FROM user";
+            statement = connection.prepareStatement(sql);
+
+
+            ResultSet rs = statement.executeQuery();
+            while (rs.next()) {
+                user = new User();
+                user.setName(rs.getString("name"));
+                user.setId(rs.getInt("id"));
+
+                userList.add(user);
+            }
+        } catch (SQLException e) {
+            System.out.println("oh no, error!");
+            e.printStackTrace();
+        } finally {
+            try {
+                statement.close();
+                connection.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+        return userList;
 
     }
 

@@ -3,6 +3,7 @@ package controllers;
 import models.User;
 import services.UserService;
 
+import java.util.List;
 import java.util.Scanner;
 
 public class UserController {
@@ -20,5 +21,9 @@ public class UserController {
         user.setName(name);
 
         userService.saveUser(user);
+    }
+
+    public List<User> getUsers (){
+        return this.userService.getAllUsers();
     }
 }
