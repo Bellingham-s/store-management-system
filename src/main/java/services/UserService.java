@@ -36,4 +36,8 @@ public class UserService {
         return this.usersPoller.getUsers();
     }
 
+    public User findByUserName(String userName) {
+        return this.usersPoller.findUserInCache(userName);
+    }
+
 }

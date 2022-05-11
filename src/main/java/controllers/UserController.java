@@ -13,10 +13,7 @@ public class UserController {
         this.userService = userService;
     }
 
-    public void saveUser(){
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("please enter the name of the user you want to save");
-        String name = scanner.nextLine();
+    public void saveUser(String name){
         User user = new User();
         user.setName(name);
 
@@ -25,5 +22,9 @@ public class UserController {
 
     public List<User> getUsers (){
         return this.userService.getAllUsers();
+    }
+
+    public User findByUserName(String userName) {
+        return this.userService.findByUserName(userName);
     }
 }

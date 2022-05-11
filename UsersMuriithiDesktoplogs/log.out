@@ -15,3 +15,319 @@ Starting thread to fetch users regularly from the database
 Started thread to fetch users regularly from the database
 able to save a new user
 All users in the db: []
+about to save a user
+Starting thread to fetch users regularly from the database
+Started thread to fetch users regularly from the database
+We want to fetch the users
+We have added the users to the cache. size: 8
+We want to fetch the users
+We have added the users to the cache. size: 8
+able to save a new user
+We want to fetch the users
+We have added the users to the cache. size: 9
+All users in the db: [User{id=1, name='tom'}, User{id=2, name='fred'}, User{id=3, name='kim'}, User{id=4, name='james'}, User{id=5, name='rodrygo'}, User{id=6, name='timo'}, User{id=7, name='peter'}, User{id=8, name='mkenya'}, User{id=1, name='tom'}, User{id=2, name='fred'}, User{id=3, name='kim'}, User{id=4, name='james'}, User{id=5, name='rodrygo'}, User{id=6, name='timo'}, User{id=7, name='peter'}, User{id=8, name='mkenya'}, User{id=1, name='tom'}, User{id=2, name='fred'}, User{id=3, name='kim'}, User{id=4, name='james'}, User{id=5, name='rodrygo'}, User{id=6, name='timo'}, User{id=7, name='peter'}, User{id=8, name='mkenya'}, User{id=9, name='mino'}]
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+Starting thread to fetch users regularly from the database
+Started thread to fetch users regularly from the database
+We want to fetch the users
+We have added the users to the cache. size: 9
+User was found in cache
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+Starting thread to fetch users regularly from the database
+Started thread to fetch users regularly from the database
+We want to fetch the users
+We have added the users to the cache. size: 0
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+Starting thread to fetch users regularly from the database
+Started thread to fetch users regularly from the database
+We want to fetch the users
+We have added the users to the cache. size: 9
+User was found in cache
+We want to fetch the users
+We have added the users to the cache. size: 9
+User was found in cache
+We want to fetch the users
+We have added the users to the cache. size: 9
+User was found in cache
+User was found in cache
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
+We want to fetch the users
+We have added the users to the cache. size: 9
